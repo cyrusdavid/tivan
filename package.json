@@ -1,0 +1,23 @@
+{
+  "name": "tivan",
+  "version": "0.1.0",
+  "keywords": [
+    "yeoman-generator",
+    "sass",
+    "compass",
+    "watch",
+    "grunt",
+    "jade",
+    "livereload",
+    "zurb-foundation"
+  ],
+  "devDependencies": {
+    "grunt-contrib-compass": "~0.3.0",
+    "grunt-contrib-watch": "~0.4.4",
+    "grunt": "~0.4.1",
+    "grunt-bg-shell": "~2.1.0",
+    "grunt-symbolic-link": "~0.3.1",
+    "grunt-contrib-jade": "~0.7.0",
+    "grunt-notify": "~0.2.4"
+  }
+}
